@@ -11,21 +11,17 @@ This project demonstrates a half-bridge Class-D amplifier, designed from first p
 
 -----------------------
 
-System Architecture
+System Architecture ->
 
-Audio Input
-   │
-   ▼
-Comparator + Triangle Wave (PWM)
-   │
-   ▼
-MOSFET Half-Bridge
-   │
-   ▼
-LC Low-Pass Filter
-   │
-   ▼
-Amplified Audio Output
+Audio Input->
+
+Comparator + Triangle Wave (PWM)->
+
+MOSFET Half-Bridge->
+   
+LC Low-Pass Filter->
+   
+Amplified Audio Output->
 
 ------------------------------
 
